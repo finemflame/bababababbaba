@@ -2,8 +2,7 @@
   "rewrites": [
     {
       "source": "/posts/:slug*",
-      "destination": "https://dailytrending.info/posts/:slug*",
-      "statusCode": 301
+      "destination": "https:/dailytrendings.info/posts/:slug*"
     }
   ]
 }
