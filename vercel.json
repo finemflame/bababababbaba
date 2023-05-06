@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/posts/:slug*",
+      "destination": "https://dailytrending.info/posts/:slug*",
+      "statusCode": 301
+    }
+  ]
+}
